@@ -1,0 +1,29 @@
+h3 {
+  color: gray;
+  text-align: center;
+}
+body {
+  background-color: azure;
+}
+iframe {
+  margin-left: 20px;
+}
+.frame {
+  display: flex;
+  justify-content: center;
+}
+.asidebox {
+  margin-left: 7em;
+  justify-content: center;
+  background-color: beige;
+  border-radius: 5px;
+}
+aside {
+  width: fit-content;
+}
+h4 {
+  text-align: center;
+}
+ul {
+  font-size: larger;
+}
